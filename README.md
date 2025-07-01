@@ -15,7 +15,6 @@
 
 ![Screenshot (159)](https://github.com/Ayushgadre/ChatFlow/assets/84783296/a55c7fa3-d698-4350-bc48-78756c751641)
 ![Screenshot (160)](https://github.com/Ayushgadre/ChatFlow/assets/84783296/497a794c-4a87-4bb6-8bc6-6ff20dfddbc1)
-![Screenshot (158)](https://github.com/Ayushgadre/ChatFlow/assets/84783296/f75262b2-ca3d-4220-9dd8-aac85bcb9245)
 ![Screenshot (161)](https://github.com/Ayushgadre/ChatFlow/assets/84783296/0344e2b5-5070-4cec-8e42-adb46e5534c5)
 ![Screenshot (162)](https://github.com/Ayushgadre/ChatFlow/assets/84783296/d76bf4cb-e614-42be-acde-719e559c571e)
 ![Screenshot (167)](https://github.com/Ayushgadre/ChatFlow/assets/84783296/484fb2c7-5263-4e55-91f2-29a8bfd1143d)
